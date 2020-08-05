@@ -1,2 +1,2 @@
 # hogwarts_fangxue
-hogwarts_fangxue
+./game/practice_game
