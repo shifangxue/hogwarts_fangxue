@@ -15,7 +15,7 @@ def fight():
     ken_hp = 1000
     chunli_hp = 1000
 
-    print("ken_hp:",ken_hp,"\tchunli_hp:",chunli_hp)
+    print("ken_hp:",ken_hp,"\t\tchunli_hp:",chunli_hp)
     print("============START==============")
 
     while True:
