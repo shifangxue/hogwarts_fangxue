@@ -9,6 +9,7 @@ enemy_final_hp = enemy_hp - my_power
 """
 import random
 import time
+
 def fight():
     # 初使化双方血量
     ken_hp = 1000
