@@ -1,2 +1,2 @@
 # hogwarts_fangxue
-./game/practice_game
+./game/practice_game.py
